@@ -37,15 +37,15 @@
                 "$ref": "#/components/schemas/VerifyRequest"
               },
               "example": {
-                "request_id": "0000TEST-DS",
+                "request_id": "sample_id",
                 "source": "5",
                 "country_code": "DE",
-                "first_name": "Urjaben",
-                "last_name": "Patel",
-                "address": "Mainstrasse 12",
-                "city": "Darmstadt",
-                "zip": "64283",
-                "phone": "4915510194127"
+                "first_name": "abc",
+                "last_name": "xyz",
+                "address": "xx-xxx",
+                "city": "xx",
+                "zip": "123456",
+                "phone": "1234567890"
               }
             }
           }
